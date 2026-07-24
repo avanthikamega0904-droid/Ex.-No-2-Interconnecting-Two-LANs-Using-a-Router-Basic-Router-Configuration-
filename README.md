@@ -16,7 +16,7 @@ ________________________________________
  Description:<br>
 •	PC0 → Switch0 → Router (FastEthernet0/0)<br>
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
-(Insert screenshot of your Packet Tracer setup here)<br>
+<img width="1917" height="1027" alt="Screenshot 2026-07-24 105317" src="https://github.com/user-attachments/assets/eb95d0f0-7b36-4fb2-ad09-868cd7377794" />
 ________________________________________
 # IP Addressing Table
 Device	Interface	IP Address	Subnet Mask<br>
@@ -52,7 +52,6 @@ Router(config-if)# ip address 192.168.2.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
-<img width="1917" height="1027" alt="Screenshot 2026-07-24 105317" src="https://github.com/user-attachments/assets/eb95d0f0-7b36-4fb2-ad09-868cd7377794" />
 •	Router CLI configuration<br>
 <img width="1917" height="1026" alt="Screenshot 2026-07-24 105405" src="https://github.com/user-attachments/assets/2d579618-8e12-4a66-a03c-65e82d0b41ac" />
 •	IP configurations on PCs<br>
